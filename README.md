@@ -3,11 +3,11 @@
 I love empowering individuals to learn new technologies effortlessly, fostering growth and success in their tech journey.
 
 ### Follow me 🤳
-  <a href="https://www.x.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-64.png" width="30px"/></a>
-  <a href="https://www.instagram.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-64.png" width="30px"/></a>
+  <a href="https://www.x.com/husan_me"><img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-64.png" width="30px"/></a>
+  <a href="https://www.instagram.com/omarhum20"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-64.png" width="30px"/></a>
   <a href="https://www.linkedin.com/in/omar-humberto-s%C3%A1nchez-m%C3%A9ndez-a5781546/" class="linkedin" target="_blank"><i class="bx bxl-linkedin"></i>
+
    
-   </a>### Useful links 🔗
 - [🤵 Portfolio]() <br/>
 - [🌐 Website](https://sanmen.es) <br/>
 - 
