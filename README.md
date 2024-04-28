@@ -21,7 +21,8 @@ I love empowering individuals to learn new technologies effortlessly, fostering 
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px"/></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px"/></span>
    <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="30px"/></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" width="30px"/></span>
+   <span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAADDUCfJAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALpwEwEAAAABQAAA8QIURoAAgACGAyAAAACHAj/IiQAAAACXOVORK3j54CykAAAABnRSTlMAQObBwLLSgwAAAAExJREFUSIntjYGAADMABQ09WVl0m198+98XgcSt+X2OgFkIFRxzIUzWOBJOcB2la6aO6GjnGUpiIFYsTcWABEh2ketaP0H2QyIUtNw+17Pfm73jn9+fnz58+fPn06dPnz59+vTp06dPn049evTo0aNHjxo0aNCjRo0aNHjRo0aNHjRo0aNHjRo0aNHjRo0aNHjRo0aNHjRo0aNHjRo0aNHjRo0aNHjRo0aNHjRo0aPH/h+8XqGAAAAAElFTkSuQmCC" alt="SQL Server" width="16" height="16"></span>
+   
  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px"/></span>
 
 ### My work 💼
