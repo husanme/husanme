@@ -22,7 +22,6 @@ I love empowering individuals to learn new technologies effortlessly, fostering 
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px"/></span>
    <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="30px"/></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px"/></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" width="30px"/></span>
 ### My work 💼
 <details close>
 <summary>Guides and references 📙:</summary>
