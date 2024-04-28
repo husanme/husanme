@@ -5,7 +5,7 @@ I love empowering individuals to learn new technologies effortlessly, fostering 
 ### Follow me 🤳
   <a href="https://www.x.com/husan_me"><img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-64.png" width="30px"/></a>
   <a href="https://www.instagram.com/omarhum20"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-64.png" width="30px"/></a>
-  <a href="https://www.linkedin.com/in/omar-humberto-sánchez-méndez"><imgsrc="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-linkedin-brand-contained-64.png" width="30px"/></a>
+ <a href="https://www.x.com/husan_me"><img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-linkedin-brand-contained-64.png" width="30px"/></a>
    
 - [🤵 Portfolio]() <br/>
 - [🌐 Website](https://sanmen.es) <br/>
