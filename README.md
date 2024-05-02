@@ -1,6 +1,11 @@
-# Hello there 👋
-### About me 😊
+ # I am Humberto 
+
+About me / Acerca de mi 👋
 I love empowering individuals to learn new technologies effortlessly, fostering growth and success in their tech journey.
+
+Daily data 
+   
+[![husanme's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=husanme&bg_color=0d1117&color=ffffff&line=ff69b4&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Follow me 🤳
   <a href="https://www.x.com/husan_me"><img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-64.png" width="30px"/></a>
