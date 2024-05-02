@@ -54,11 +54,11 @@ Doing data
     
 ```mermaid
 graph TD;
-    Data-Analyst-->SQL;
-    Data-Analyst-->HTML;
-    Data-Analyst-->PHP;
-    Data-Analyst-->CSS;
-    Data-Analyst-->JS;
+    Web-Developer-->SQL;
+    Web-Developer-->HTML;
+    Web-Developer-->PHP;
+    Web-Developer-->CSS;
+    Web-Developer-->JS;
     
    ```
 2. Data Science
@@ -135,54 +135,48 @@ Countries
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=husanme&show_icons=true&locale=es&theme=dark" alt="husanme" />
 </p>
 
-<h3 align="left">Conocimientos</h3>
-<table width="480px">
+<h3 align="left">Knowledge</h3>
+<table width="320px">
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
-                <span><strong>Python</strong></span><br>
-                <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+            <span><strong>Python</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
             </td>
             <td width="80px" align="center">
-                <span><strong>Amazon Web Services (AWS)</strong></span><br>
-                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+            <span><strong>Amazon Web Services (AWS)</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
             </td>
+            
+          
+<td width="80px" align="center">
+    <span><strong>PHP</strong></span><br>
+    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+</td>
+<td width="80px" align="center">
+    <span><strong>JavaScript (JS)</strong></span><br>
+    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+</td>
+<td width="80px" align="center">
+    <span><strong>HTML</strong></span><br>
+    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+</td>
+<td width="80px" align="center">
+    <span><strong>CSS</strong></span><br>
+    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+</td>
             <td width="80px" align="center">
-                <span><strong>Google Cloud Platform (GCP)</strong></span><br>
-                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
-            </td>
-            <td width="80px" align="center">
-                <span><strong>Apache Spark</strong></span><br>
-                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg">
-            </td>
-            <td width="80px" align="center">
-                <span><strong>PHP</strong></span><br>
-                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-            </td>
-            <td width="80px" align="center">
-                <span><strong>JavaScript (JS)</strong></span><br>
-                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-            </td>
-            <td width="80px" align="center">
-                <span><strong>HTML</strong></span><br>
-                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-            </td>
-            <td width="80px" align="center">
-                <span><strong>CSS</strong></span><br>
-                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-            </td>
-            <td width="80px" align="center">
-                <span><strong>SQL</strong></span><br>
-                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+            <span><strong>Apache Spark</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg">
             </td>
         </tr>
     </tbody>
 </table>
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=husanme&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
+<img src="https://github-profile-trophy.vercel.app/?username=patricoders23&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
   <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
